@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Phan Quang Lam, you can call me Lam.
+My name is Lam.
 I'm a web developer/bridge system engineer/project manager. I'm from Vietnam and currently living in a small peaceful island in the south of Japan.
 I started my career from 2015, and have mainly worked with Ruby on Rails projects.
 Recently (2021) I'm working with a local client on a new SaaS product in construction industry, built with Rails and VueJS.
