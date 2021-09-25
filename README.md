@@ -15,7 +15,7 @@ I have some devops experience with AWS EC2, CloudFormation, ECS (which means I'm
   * Maron: I saw him at a vegetable field next to the road back home, in a heavy rain night, so I brought him home. His name means chestnut.
   * Mikan: He came to our garden some days then my wife decided to bring him in. His name means citrus.
   * Mit: My friend found her near a beach with one of her eye in bad condition. My friend cannot keep her so we took her home. Her name means jackfruit in Vietnamese.
-* My bachelor degree is about Business Administrator, majored in Accounting and Finance, but I have only work in that industry for 2 weeks before deciding to become a web developer.
+* My bachelor degree is about Business Administrator, majored in Accounting and Finance, but I have only work in that industry for 2 weeks before decided to become a web developer.
 
 :cocktail: Hobbies:
 * reading :books: (blogs about Ruby and Rails, books about clean code, estimatation, remote working, etc.)
