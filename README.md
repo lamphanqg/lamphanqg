@@ -11,10 +11,6 @@ I have some devops experience with AWS EC2, CloudFormation, ECS (which means I'm
 
 😄 Fun fact:
 * Cat lover with 4 cats :cat2:
-  * Chibe: named by the previous owner. He came to our house 1-2 months after we moved to the island
-  * Maron: I saw him at a vegetable field next to the road back home, in a heavy rain night, so I brought him home. His name means chestnut.
-  * Mikan: He came to our garden some days then my wife decided to bring him in. His name means citrus.
-  * Mit: My friend found her near a beach with one of her eye in bad condition. My friend cannot keep her so we took her home. Her name means jackfruit in Vietnamese.
 * My bachelor degree is about Business Administrator, majored in Accounting and Finance, but I have only work in that industry for 2 weeks before decided to become a web developer.
 
 :cocktail: Hobbies:
