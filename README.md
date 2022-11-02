@@ -3,11 +3,6 @@
 My name is Lam.
 I'm a web developer/bridge system engineer/project manager. I'm from Vietnam and currently living in a small peaceful island in the south of Japan.
 I started my career from 2015, and have mainly worked with Ruby on Rails projects.
-Recently (2021) I'm working with a local client on a new SaaS product in construction industry, built with Rails and VueJS.
-
-I have some devops experience with AWS EC2, CloudFormation, ECS (which means I'm familiar with Docker too). Actually I'm studying to get the AWS Solution Architect Associate certificate in this November.
-
-⚡ Currenly I'm open to opportunities to work in English-speaking environments. It'd be best if there is a chance to go living in US/Canada for some years. I'm just curious and excited to have some living & working experience there.
 
 😄 Fun fact:
 * Cat lover with 4 cats :cat2:
